@@ -15,6 +15,8 @@
 # ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF
 # OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 #
+# Version    Date        Notes
+# 1.0        2023-09-15  "Initial" release. Not *really* the first, but the first one with a version number.
 
 from datetime import datetime
 from pathlib import Path
